@@ -22,4 +22,4 @@ DDT_S5.txt and LAT_S5 : DDT and LAT tables of the AES S-box.
 //S4 (concatenation) with nonlinearity 454, absolute indicator 184, algebraic degree 9, and differential uniformity 8 
 //S5 (AES S-box)
 
-[1] Selçuk Kavut. Search for Large S-boxes in Some Cryptographically Rich Subspaces (in Turkish). Submitted to EMO Bilimsel Dergi.
+[1] SelÃ§uk Kavut. Cryptographically Optimized Large S-boxes in Some Subspaces (in Turkish). Submitted to EMO Bilimsel Dergi.
